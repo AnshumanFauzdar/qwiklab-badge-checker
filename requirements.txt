@@ -2,4 +2,3 @@ requests
 beautifulsoup4
 regex
 python-csv
-os-sys==2.1.4
