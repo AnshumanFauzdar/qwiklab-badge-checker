@@ -31,7 +31,7 @@ jobs:
         uses: svenstaro/upload-release-action@v2
         with:
           repo_token: ${{ secrets.GITHUB_TOKEN }}
-          file: dist/qwiklab_badge_checker.exe
+          file: D:\a\qwiklab-badge-checker\qwiklab-badge-checker\dist\qwiklab_badge_checker.exe
           asset_name: Qwiklab-Badge-Checker-Windows-amd64
           tag: ${{ github.ref }}
           overwrite: true
