@@ -46,7 +46,6 @@ jobs:
           asset_path: dist/qwiklab_badge_checker.exe
           name: asset-name
           asset_content_type: application/zip
-
           
       # - uses: actions/checkout@v2
       # - name: Upload binaries to release
