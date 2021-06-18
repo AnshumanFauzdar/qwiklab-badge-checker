@@ -56,3 +56,4 @@ for x in list_of_lists:
         print("[ ] " + x)
 
 os.remove("check.txt")
+input("Press enter to exit")
