@@ -6,7 +6,7 @@ on:
 
 jobs:
   build-windows:
-    runs-on: windows-2019
+    runs-on: windows-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v1
@@ -25,3 +25,16 @@ jobs:
         with:
           name: Windows_qwiklabs
           path: dist/qwiklab_badge_checker.exe
+          
+      - uses: actions/checkout@v2
+      - name: Build
+        run: cargo build --release
+      - name: Upload binaries to release
+        uses: svenstaro/upload-release-action@v2
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          file: dist/qwiklab_badge_checker.exe
+          asset_name: Qwiklab-Badge-Checker-Windows-amd64
+          tag: ${{ github.ref }}
+          overwrite: true
+          body: "Test Release!"
