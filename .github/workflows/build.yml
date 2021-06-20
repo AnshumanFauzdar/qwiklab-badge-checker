@@ -49,14 +49,3 @@ jobs:
           asset_path: dist/qwiklab_badge_checker.exe
           asset_name: Qwiklab-Badge-Checker-Windows-amd64.exe
           asset_content_type: application/zip
-          
-      # - uses: actions/checkout@v2
-      # - name: Upload binaries to release
-      #   uses: svenstaro/upload-release-action@v2
-      #   with:
-      #     repo_token: ${{ secrets.GITHUB_TOKEN }}
-      #     file: ./dist/qwiklab_badge_checker.exe
-      #     asset_name: Qwiklab-Badge-Checker-Windows-amd64
-      #     tag: ${{ github.ref }}
-      #     overwrite: true
-      #     body: "Test Release!"
