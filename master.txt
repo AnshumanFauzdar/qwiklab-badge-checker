@@ -1,45 +1,11 @@
-Cloud Architecture: Design, Implement, and Manage
-Engineer Data in Google Cloud
-Create ML Models with BigQuery ML
-Insights from Data with BigQuery
-Perform Foundational Data, ML, and AI Tasks in Google Cloud
-Build a Website on Google Cloud
-Integrate with Machine Learning APIs
-Build Interactive Apps with Google Assistant
-Ensure Access & Identity in Google Cloud
-Implement DevOps in Google Cloud
-Set Up and Configure a Cloud Environment in Google Cloud
-Deploy to Kubernetes in Google Cloud
-Scientific Data Processing
-Intro to ML: Language Processing
-BigQuery for Data Warehousing
-Cloud SQL
-Data Engineering
-Applied Data: Blockchain
-NCAA® March Madness®: Bracketology with Google Cloud
-BigQuery for Machine Learning
-BigQuery Basics for Data Analysts
-Baseline: Data, ML, AI
-Workspace: Integrations
-IoT in the Google Cloud
-Exploring APIs
-Baseline: Deploy & Develop
-Website on Google Cloud
-Cloud Logging
-Cloud Development
-Machine Learning APIs
-OK Google: Build Interactive Apps with Google Assistant
-Google Developer Essentials
-Google Cloud Solutions I: Scaling Your Infrastructure
-Cloud Architecture
-Understanding Your Google Cloud Costs
-Security & Identity Fundamentals
-DevOps Essentials
-Cloud Engineering
-Kubernetes in Google Cloud
-Build and Secure Networks in Google Cloud
-Networking in the Google Cloud 
-Perform Foundational Infrastructure Tasks in Google Cloud
-Baseline: Infrastructure
 Create and Manage Cloud Resources
-Google Cloud Essentials
+Perform Foundational Infrastructure Tasks in Google Cloud
+Setup and Configure a Cloud Environment in Google Cloud
+Deploy and Manage Cloud Environments with Google Cloud
+Build and Secure Networks in Google Cloud
+Deploy to Kubernetes in Google Cloud
+Perform Foundational Data, ML, and AI Tasks in Google Cloud
+Insights from Data with BigQuery
+Engineer Data in Google Cloud
+Integrate with Machine Learning APIs
+Explore Machine Learning Models with Explainable AI

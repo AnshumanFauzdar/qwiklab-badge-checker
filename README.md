@@ -18,4 +18,4 @@ Will look like this:
 ![image](https://user-images.githubusercontent.com/40523329/119640613-6a8bf280-be36-11eb-9e44-d04960ece2cb.png)
 
 
-PS: This will work only for cloud facilitator program.
+PS: This will work only for 30 Days of Google Cloud Program.
